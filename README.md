@@ -1,16 +1,23 @@
-# ramayana
+# Ramayana
 
-A new Flutter project.
+A new Flutter based application for reading and listening Ramayana.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+This Project is Developed for evaluation for the course AVP211 in the year 2023, under the guidance of our teacher Aswathy Chandran.
 
-A few resources to get you started if this is your first Flutter project:
+## Developed by
+<ul>
+<li>Margana Girish Vardhan</li>
+<li>Shinoy Yandra</li>
+<li>Vangapandu Rithin Chand</li>
+<li>Surya Vamsi Vema</li>
+<li>Rajendra Kumar Vesapogu</li>
+<li>Lekha Sathvik Devabathini</li>
+</ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Disclaimer
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Application may contain content that is not authorized for use by its owner. This content may include or may have references to copyrighted material, such as images and text. We are using this content under the fair use doctrine, which allows for the limited use of copyrighted material without permission from the copyright holder.
+
+We believe that our use of this content falls within the guidelines of fair use. However, if you believe that your copyrighted material has been used in a way that constitutes copyright infringement, please contact us and we will remove it immediately(Section 107 of the Copyright Act)

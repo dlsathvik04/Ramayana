@@ -24,7 +24,7 @@ class AboutPage extends StatelessWidget {
             Text("Lekha Sathvik Devabathini", style: Theme.of(context).textTheme.bodySmall,),
             const Spacer(),
             Text("Disclaimer", style: Theme.of(context).textTheme.titleLarge),
-            Text("This website may contain content that is not authorized for use by its owner. This content may include or may have references to copyrighted material, such as images and text. We are using this content under the fair use doctrine, which allows for the limited use of copyrighted material without permission from the copyright holder.", style: Theme.of(context).textTheme.bodySmall,textAlign: TextAlign.center,),
+            Text("This Application may contain content that is not authorized for use by its owner. This content may include or may have references to copyrighted material, such as images and text. We are using this content under the fair use doctrine, which allows for the limited use of copyrighted material without permission from the copyright holder.", style: Theme.of(context).textTheme.bodySmall,textAlign: TextAlign.center,),
             Text("We believe that our use of this content falls within the guidelines of fair use. However, if you believe that your copyrighted material has been used in a way that constitutes copyright infringement, please contact us and we will remove it immediately(Section 107 of the Copyright Act)", style: Theme.of(context).textTheme.bodySmall,textAlign: TextAlign.center,),
             
           ],),
